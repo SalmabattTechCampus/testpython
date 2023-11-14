@@ -26,6 +26,8 @@ print ("hello {} , {}" .format(name,age))
 print (5+3)
  
  
+x = "a"
+print(ord(x))
  
 
 total = 100
@@ -39,3 +41,18 @@ print (gap)
 print (black + white)
 
 
+s="python program"
+x=s[5]
+
+
+
+
+age = int (input ("please inter your age: "))
+print(2023-age)
+
+
+number = int(input("Entr a number"))
+print ("%04d"% (number))
+
+name = input("please inter your name: ")
+print (name +"%04d"% (age))
