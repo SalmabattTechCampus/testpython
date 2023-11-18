@@ -3,7 +3,7 @@ m1=int(input("enter a min for first time:"))
 ampm1=input("input am or pm for first time:")
 
 h2=int(input("enter an hour for second time:"))
-h2=int(input("enter an min for second time:"))km;
+h2=int(input("enter an min for second time:"));
 ampm1=input("input am or pm for first time:")
 
 if(ampm1 == "am" and ampm2 =="pm"):
